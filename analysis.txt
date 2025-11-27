@@ -1,0 +1,6 @@
+Performance Comparison
+
+Scratch Model: Acc=0.965, Prec=0.9696969696969697, Rec=0.96, F1=0.964824120603015
+Sklearn Model: Acc=0.965, Prec=0.9696969696969697, Rec=0.96, F1=0.964824120603015
+
+The scratch implementation converges but reaches slightly different weights than sklearn.
