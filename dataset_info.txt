@@ -1,0 +1,5 @@
+Dataset: Synthetic binary classification (make_classification)
+Features: 4
+Samples: 1000
+Train/Test Split: 75/25
+Class separation: 1.2
